@@ -15,9 +15,9 @@ Olá, meu nome é André, sou formado em engenharia de produção além de ser f
 <br>
 <br>
 <br>
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=andre-candido13&show_icons=true&theme=radical" height="140"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-candido13&layout=compact&langs_count=7&theme=radical"/>  
-<div align="center">
 
 </div>
 <br>
