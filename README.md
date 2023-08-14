@@ -22,4 +22,6 @@
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-luis-candido/" /></a>
 
-  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+    
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
