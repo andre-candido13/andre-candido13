@@ -9,6 +9,8 @@ Olá, meu nome é André, sou formado em engenharia de produção além de ser f
 <strong>Onde você pode me encontrar:
 </strong><br>
 <a href="[https://www.linkedin.com/in/taiana-azevedo-/](https://www.linkedin.com/in/andre-luis-candido/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=andre-candido13&show_icons=true&theme=radical" height="140"/>
+
 <br>
 <br>
 <br>
