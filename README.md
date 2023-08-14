@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é André, sou formado em engenharia de produção além de ser formado em desenvolvimento web full stack pela Driven Education. Sou um apaixonado por tecnologia além de games, animes, filmes e séries. Sou um entusiasta de carros turbos também!!! Uma curiosidade sobre mim é que além de tecnologia, sou especialista em vestimentas de combate a incêndio (minha antiga profissão) <strong>Desenvolvedor full stack</strong>.<br>
-  Atualmente estoume dedicando 100% a programação e recentemente fui contemplado com uma bolsa no Santander coders para começar uma nova jornada com Java e Angular.
+  Olá, meu nome é André, sou formado em engenharia de produção além de ser formado em desenvolvimento web full stack pela Driven Education. Sou um apaixonado por tecnologia além de games, animes, filmes e séries. Sou um entusiasta de carros turbos também!!! Uma curiosidade sobre mim é que além de tecnologia, sou especialista em vestimentas de combate a incêndio (minha antiga profissão).  Atualmente estou me dedicando 100% a programação e recentemente fui contemplado com uma bolsa no Santander coders para começar uma nova jornada com Java e Angular.
+  
+  <strong>Desenvolvedor full stack</strong>.<br>
+ 
 </p>
 
 <p align="left">
