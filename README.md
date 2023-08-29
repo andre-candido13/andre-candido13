@@ -3,7 +3,7 @@
 Olá, meu nome é André, sou formado em engenharia de produção além de ser formado em desenvolvimento web full stack pela Driven Education. Sou um apaixonado por tecnologia além de games, animes, filmes e séries. Sou um entusiasta de carros turbos também!!! Uma curiosidade sobre mim é que além de tecnologia, sou especialista em vestimentas de combate a incêndio (minha antiga profissão).  Atualmente estou me dedicando 100% a programação e recentemente fui contemplado com uma bolsa no Santander coders para começar uma nova jornada com Java e Angular.
 <br>
 
-- 🌱 Estou atualizando meus estudos com Java e Angular, além de aprimorar Javascript (React, Node e Nest);
+- 🌱 Estou atualizando meus estudos com as stacks Java e Angular, além de aprimorar meus conhecimentos em Javascript (React, Node e Nest);
 
 <br>
 <strong>Onde você pode me encontrar:
